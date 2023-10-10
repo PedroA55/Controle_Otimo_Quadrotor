@@ -1,0 +1,1 @@
+# Este código foi trata da dinâmica rotacional de um drone quadrirrotor utilizando a técnica LQR (Controle Ótimo Linear)
